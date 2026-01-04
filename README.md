@@ -26,7 +26,7 @@ Explore the interactive portfolio: [https://snakegame.souramoy.tech/](https://sn
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/Souramoy/snake-game/>
    cd snake
    ```
 
