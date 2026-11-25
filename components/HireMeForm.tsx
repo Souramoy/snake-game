@@ -89,7 +89,7 @@ const HireMeForm: React.FC<HireMeFormProps> = ({ score, onRestart }) => {
       </form>
       
       <div className="mt-6 text-center">
-         <a href="#" className="text-lg underline opacity-60 hover:opacity-100">DOWNLOAD RESUME.PDF</a>
+         <a href="/Souramoy_shee.pdf" className="text-lg underline opacity-60 hover:opacity-100">DOWNLOAD RESUME.PDF</a>
       </div>
     </div>
   );
